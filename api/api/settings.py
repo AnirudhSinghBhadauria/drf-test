@@ -41,7 +41,7 @@ INSTALLED_APPS = [
 
 EXTERNAL_APPS = [
     'core',
-    'addthis'
+    'I added this'
 ]
 
 INSTALLED_APPS += EXTERNAL_APPS
